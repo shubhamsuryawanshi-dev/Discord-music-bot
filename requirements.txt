@@ -1,0 +1,5 @@
+colorthief
+requests
+python-dotenv
+discord.py[voice]>=2.7.1
+yt-dlp
